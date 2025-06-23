@@ -1,0 +1,13 @@
+{
+  "name": "dalton-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord AOI.js untuk Dalton Garage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aoi.js": "^6.5.0",
+    "express": "^4.18.2"
+  }
+}
